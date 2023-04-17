@@ -1,11 +1,14 @@
 
   #intro {
     height: 500px;
+    /* height: 700px; */
     position: relative;
     top: -30px;
-    background-image: url("images/anime-girls-group-clothes-coat-wallpaper-preview.jpg");
+    background-image: url("images/pexels-tembela-bohle-1884584.jpg");
     background-position: center;
     background-size: contain;
+    background-repeat: no-repeat;
+    /* border-radius: 50% 50%; */
   }
   #intro h1 {
     text-transform: uppercase;
